@@ -4,7 +4,7 @@
 		"toolbar": "false",
 		"navigation_drawer": "true",
 		"geolocation": "false",
-		"cache": "false",
+		"cache": "true",
 		"open_link_in_external_browser": "false",
 		"privacy_policy_url": "https://sites.google.com/view/blogger-recipes-app-privacy",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
@@ -65,6 +65,6 @@
 		"applovin_native_ad_manual_unit_id": "1a552d614e3b272c",
 		"applovin_banner_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
-		"interstitial_ad_interval": 5
+		"interstitial_ad_interval": 7
 	}	
 }
