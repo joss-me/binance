@@ -1,0 +1,70 @@
+{
+	"app": {
+		"status": "1",
+		"toolbar": "false",
+		"navigation_drawer": "true",
+		"geolocation": "false",
+		"cache": "false",
+		"open_link_in_external_browser": "false",
+		"privacy_policy_url": "https://sites.google.com/view/blogger-recipes-app-privacy",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"redirect_url": ""
+	},	
+	"menus": [
+		{
+			"name": "Home",
+			"type": "url",
+			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
+			"url": "https://blog.mforex.xyz/"
+		},
+		{
+			"name": "Portfolio",
+			"type": "url",
+			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_portfolio.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html"
+		},
+		{
+			"name": "Testimonials",
+			"type": "url",
+			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_testimonials.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html"
+		},
+		{
+			"name": "Contact us",
+			"type": "url",
+			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_contact.png",
+			"url": "https://www.solodroid.net/demo/webdroid/pages/contact.html"
+		},
+		{
+			"name": "Privacy Policy",
+			"type": "assets",
+			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_privacy.png",
+			"url": "privacy_policy.html"
+		}
+	],
+	"notification": {
+		"fcm_notification_topic": "webdroid_topic",
+		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "applovin_discovery",
+		"backup_ads": "fan",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "363915111924357_497103998605467",
+		"admob_interstitial_unit_id": "363915111924357_497104451938755",
+		"admob_native_unit_id": "292881375252376_292889375251576",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "4c232552ea262e61",
+		"applovin_interstitial_ad_unit_id": "0e0cb1dfd9f4790b",
+		"applovin_native_ad_manual_unit_id": "1a552d614e3b272c",
+		"applovin_banner_zone_id": "0",
+		"applovin_interstitial_zone_id": "0",
+		"interstitial_ad_interval": 5
+	}	
+}
